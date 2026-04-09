@@ -16,22 +16,27 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 1.** Would you rather be able to fly or breathe underwater?
 
-*Answer:*
+*Answer:* fly :)
 
 **Question 2.** Is a hot dog a sandwich? Justify your answer.
 
-*Answer:* 
+*Answer:* No. It is not layered
 
 **Question 3.** What is your go-to karaoke anthem?
 
-*Answer:*
+*Answer:* I would never do that to anyone tbh
 
 **Question 4.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains of Middle Earth.
 
-*Answer:*
+*Answer:* Forest on Endor
 
 **Question 5.** What is your favorite place in Michigan?
+<<<<<<< HEAD
 
+
+=======
+Leland
+>>>>>>> d1ef15809d4099dd4a64e266ef3db08861d1da6d
 **Other resources**
 
 -   [Happy git with R](https://happygitwithr.com/)
